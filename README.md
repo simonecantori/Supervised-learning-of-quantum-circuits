@@ -17,6 +17,7 @@ Relevant scripts and data for the paper entitled "Supervised learning of random 
  
 ## "Dataset" Folder
 It contains some of the data used to get the results shown in the paper.
+One can generate more data by using "circ_gen.py"
 	
 ## "Weights" Folder
 This folder can be used to store the weight of the neural network that we want to use again.
