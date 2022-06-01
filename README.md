@@ -2,9 +2,9 @@
 Relevant scripts and data for the paper entitled "Supervised learning of random quantum circuits via scalable neural networks"
 
 ## Table of contents
-* [Python scripts](#Python scripts)
-* ["Dataset" Folder]("Dataset" Folder)
-* ["Weights" Folder]("Weights" Folder)
+* [Python scripts](#python-scripts)
+* ["Dataset" Folder]("Dataset"-Folder)
+* ["Weights" Folder]("Weights"-Folder)
 
 ## Python scripts
 - "mlqc.py" contains all the important functions. The "main" part of this script can be used to train and test the neural network on quantum circuits of different sizes.
