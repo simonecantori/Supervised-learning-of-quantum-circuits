@@ -17,3 +17,5 @@ authors:
   - given-names: Sebastiano
     family-names: Pilati
     orcid: 'https://orcid.org/0000-0002-4845-6299'
+repository: >-
+  https://github.com/simonecantori/Supervised-learning-of-quantum-circuits
