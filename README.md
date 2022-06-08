@@ -18,7 +18,7 @@ Relevant scripts and data for the paper entitled "Supervised learning of random 
 ## "Dataset" Folder
 It contains some of the data used to get the results shown in the paper.
 One can generate more data by using "circ_gen.py".
-Input data contains integers in the range [0, 3]. Each integer is related to a quantum gate. In the python scripts, we use the one-hot encoding technique to convert each number to an array.
+Input data contains integers in the range [0, 3]. Each integer is related to a quantum gate. In the python scripts, we use the one-hot encoding technique to convert each integer to an array.
 
 	
 ## "Weights" Folder
