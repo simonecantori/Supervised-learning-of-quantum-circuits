@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: ' Supervised learning of quantum circuits'
+title: 'Supervised learning of quantum circuits'
 message: >-
   "If you use this software, please cite it as
   below."
